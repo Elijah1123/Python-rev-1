@@ -110,11 +110,23 @@
 
 # Exercise 2 Shopping Cart Program
 
-item_1 = input("Enter the price of item 1: ")
-item_2 = input("Enter the price of item 2: ")
+# item_1 = input("Enter the price of item 1: ")
+# item_2 = input("Enter the price of item 2: ")
 
-item_1 = float(item_1)
-item_2 = float(item_2)
+# item_1 = float(item_1)
+# item_2 = float(item_2)
 
-total = item_1 + item_2
-print (f"The total price of item 1 and item 2 is: Ksh {total:}")
+# total = item_1 + item_2
+# print (f"The total price of item 1 and item 2 is: Ksh {total:}")
+
+# item = input("What item would you like to buy?: ")
+# price = input("What is the price of the item?: ")
+# quantity = input("How many items would you like to buy?: ")
+# total = float(price) * int(quantity)
+
+# print(f"You are buying {quantity} {item}(s) at a price of Ksh {price} each.")
+# print(f"The total price is Ksh {total:.2f}")
+
+#Madlibs game
+# word game where you create a story
+# by filling in blanks with words
